@@ -1,7 +1,4 @@
 # Python program to find largest
-# number in a list
-
-# list of numbers
 list1 = [10, 20, 4, 45, 99]
 
 # sorting the list
